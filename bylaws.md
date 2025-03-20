@@ -3,11 +3,7 @@ title: bylaws
 URL Source: https://media.djangoproject.com/foundation/bylaws.pdf
 ---
 
-# BYLAWS
-
-# FOR
-
-# DJANGO SOFTWARE FOUNDATION
+# BYLAWS FOR DJANGO SOFTWARE FOUNDATION
 
 ### (A Kansas Nonprofit Corporation)
 
