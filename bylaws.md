@@ -3,11 +3,11 @@ title: bylaws
 URL Source: https://media.djangoproject.com/foundation/bylaws.pdf
 ---
 
-# BYLAWS FOR DJANGO SOFTWARE FOUNDATION
+# Bylaws For Django Software Foundation
 
 ### (A Kansas Nonprofit Corporation)
 
-## OBJECTS, PURPOSES, POWERS, and LIMITATIONS
+## Objects, Purposes, Powers, and Limitations
 
 ### 1.1
 
@@ -25,7 +25,7 @@ No part of the net earnings or other assets of the Foundation shall inure to the
 
 Notwithstanding any other provision, the Foundation shall not carry on any  activities not permitted to be carried on by an organization exempt from federal income tax under Section 501(a) of the Code and as an organization described in Section 501(c) (3) of the Code. 
 
-## OFFICES AND AGENTS
+## Offices and Agents
 
 ### Initial Office
 
@@ -39,7 +39,7 @@ The Principal Office of the Foundation shall be located at such place as the Boa
 
 The Foundation may also have offices at other places within or outside the State of Kansas, as the Board may from time to time authorize and/or as the business of the Foundation may require. 
 
-## MEMBERS
+## Members
 
 ### 3.1. Initial Members
 
@@ -73,7 +73,7 @@ No Member may have his, her, or its membership terminated except by the affirmat
 
 Upon any resignation or termination of the membership of any Member, all rights of membership, including all related voting rights, of such Member shall be terminated. After a resignation or termination of the membership of any Member, such Member may be reconsidered for membership only in accordance with Section 3.2 of these bylaws. 
 
-## 4. BOARD OF DIRECTORS
+## 4. Board of Directors
 
 ### 4.1 Powers
 
@@ -115,7 +115,7 @@ A vacancy or vacancies on the Board shall be deemed to exist in case of the deat
 
 Directors and members of committees may receive such compensation, if any, for their services, and such reimbursement for expenses, as may be fixed or determined by the Board. 
 
-## 5. MEETINGS
+## 5. Meetings
 
 ### 5.1 Annual Meeting
 
@@ -161,11 +161,11 @@ Any action required or permitted to be taken by the Board or the Members at a me
 
 Any written notice, consent or waiver, required or permitted hereunder shall be sufficient if sent by email to the recipient from the electronic address of the person giving such notice, consent or waiver. 
 
-## 6. LIMITS ON LIABILITY OF DIRECTORS
+## 6. Limits on Liability of Directors
 
 The Directors, officers and members of the Foundation shall not be personally liable for the payment of the Foundation's debts, except as they may be liable by reason of (a) breach of their duty of loyalty to the Foundation; (b) acts or omissions not in good faith or which involve intentional misconduct or a knowing violation of the law; or (c) any transaction in which they derived an improper benefit. 
 
-## 7. OFFICERS
+## 7. Officers
 
 ### 7.1. Number
 
@@ -203,7 +203,7 @@ The Secretary shall: (a) keep the minutes of the Board of Directors' meetings in
 
 The officers shall not be compensated; however the Board of Directors may authorize reimbursement of expenses incurred by officers in performance of their duties on behalf of the Foundation. 
 
-## 8. INDEMNIFICATION OF OFFICERS AND DIRECTORS
+## 8. Indemnification of Officers and Directors
 
 ### 8.1. General Indemnity
 
@@ -221,7 +221,7 @@ Any indemnification under subsection 9.1 of this section, unless ordered by a co
 
 The indemnification and advancement of expenses provided by, or granted pursuant to this Article, shall not be deemed exclusive of any other rights to which those seeking indemnification may be entitled under any other provision of law, the Articles of Incorporation or any agreement, vote of disinterested directors or otherwise, both as to action in his/her official capacity and as to action in another capacity while holding such office, and shall continue as to a person who has ceased to be a director, officer, employee or agent and shall inure to the benefit of the heirs, executors and administrators of such a person. 
 
-## 9. CONTRACTS, LOANS, CHECKS, DEPOSITS AND CUSTODIANS
+## 9. Contracts, Loans, Checks, Deposits and Custodians
 
 ### 9.1. Contracts
 
@@ -247,7 +247,7 @@ The Board may from time to time designate a bank, trust company, or depository a
 
 New Bylaws may be adopted or these Bylaws may be amended or repealed upon the majority vote of the Board at any regular or special meeting thereof. Notice of any amendment of the Bylaws by the Board shall be given to each member of the Board within ten (10) days after the date of such amendments by the Board. 
 
-## CERTIFICATE
+## Certificate
 
 The undersigned, hereby certifies: 
 
