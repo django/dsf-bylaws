@@ -1,8 +1,3 @@
----
-title: bylaws
-URL Source: https://media.djangoproject.com/foundation/bylaws.pdf
----
-
 # Bylaws for Django Software Foundation
 
 ### (A Kansas Nonprofit Corporation)
