@@ -17,6 +17,3 @@ Changes to the bylaws must be approved by the DSF board according to the procedu
 
 For questions about the bylaws or the DSF, please contact us: https://www.djangoproject.com/contact/foundation/
 
-## License
-
-The Django web framework has a BSD license. The content in this repository is for informational purposes.
