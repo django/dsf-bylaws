@@ -12,7 +12,7 @@ The authoritative version of these bylaws can be found in PDF format on the Djan
 
 ## Contributing
 
-Changes to the bylaws must be approved by the DSF board according to the procedures outlined in the bylaws themselves. This repository serves as a convenient way to track changes and maintain the bylaws in a more accessible format.
+Changes to the bylaws must be approved by the [DSF Board](https://www.djangoproject.com/foundation/#board) according to the procedures outlined in the bylaws themselves. This repository serves as a convenient way to track changes and maintain the bylaws in a more accessible format.
 
 For questions about the bylaws or the DSF, please [Contact the Django Software Foundation](https://www.djangoproject.com/contact/foundation/)
 
