@@ -8,8 +8,7 @@ The Django Software Foundation is a non-profit organization formed to promote, s
 
 ## Original Source
 
-The authoritative version of these bylaws can be found in PDF format on the Django website:
-https://media.djangoproject.com/foundation/bylaws.pdf
+The authoritative version of these bylaws can be found in PDF format on the Django website: [bylaws.pdf](https://media.djangoproject.com/foundation/bylaws.pdf).
 
 ## Contributing
 
