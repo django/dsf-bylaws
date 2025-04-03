@@ -1,9 +1,4 @@
----
-title: bylaws
-URL Source: https://media.djangoproject.com/foundation/bylaws.pdf
----
-
-# Bylaws For Django Software Foundation
+# Bylaws for Django Software Foundation
 
 ### (A Kansas Nonprofit Corporation)
 
@@ -243,7 +238,7 @@ All funds of the Foundation shall be deposited from time to time to the credit o
 
 The Board may from time to time designate a bank, trust company, or depository as custodian of all funds and properties of the Foundation, which custodian shall maintain a record of all receipts, expenditures, income and expenses of the Foundation and/or perform such ministerial duties as the Board by written direction may instruct, the custodian to receive such fees for its services as may from time to time be agreed upon by the Board and the custodian. 
 
-## 10. AMENDMENT
+## 10. Amendment
 
 New Bylaws may be adopted or these Bylaws may be amended or repealed upon the majority vote of the Board at any regular or special meeting thereof. Notice of any amendment of the Bylaws by the Board shall be given to each member of the Board within ten (10) days after the date of such amendments by the Board. 
 
