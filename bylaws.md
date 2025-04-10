@@ -110,6 +110,24 @@ A vacancy or vacancies on the Board shall be deemed to exist in case of the deat
 
 Directors and members of committees may receive such compensation, if any, for their services, and such reimbursement for expenses, as may be fixed or determined by the Board. 
 
+### 4.9 Affiliations of Board Members
+
+Any person running for the Board must disclose all affiliations (other than the Organization) to the members. Board Members must immediately disclose to the membership any changes in their affiliations that occur during their term of service. For purposes of this section, an affiliation exists when a Board Member or prospective Board Member:
+
+(a) is an employee, officer, or member of the Board of Directors of another entity;
+
+(b) maintains a significant consulting relationship with another entity; or
+
+(c) owns at least 1% of the equity or debt, or derivatives thereof, of another entity.
+
+For purposes of this Section, a common affiliation includes all organizations that, directly or indirectly through one or more intermediaries, controls, is controlled by, or is under common control with the other entities declared as affiliations by other members of the Board of Directors.
+
+### 4.10 Limits on Co-affiliated Board Members
+
+No more than two (2) members may share a common affiliation as defined in Section 4.9. If the number of co-affiliated directors exceeds this limit due to a change in employment or corporate acquisition, the longest-serving member(s) of the Board sharing that affiliation must resign prior to the next Board meeting to bring the number of co-affiliated directors within the permitted limit, unless otherwise agreed between the co-affiliated members.
+
+Any person whose seating or appointment would cause the Board to exceed the co-affiliation limit shall be ineligible to serve.
+
 ## 5. Meetings
 
 ### 5.1 Annual Meeting
