@@ -126,7 +126,7 @@ For purposes of this Section, a common affiliation includes all organizations th
 
 No more than two (2) members may share a common affiliation as defined in Section 4.9. If the number of co-affiliated directors exceeds this limit due to a change in employment or corporate acquisition, the longest-serving member(s) of the Board sharing that affiliation must resign prior to the next Board meeting to bring the number of co-affiliated directors within the permitted limit, unless otherwise agreed between the co-affiliated members.
 
-Any person whose seating or appointment would cause the Board to exceed the co-affiliation limit shall be ineligible to serve.
+Any person whose seating or appointment would cause the Board to exceed the co-affiliation limit shall be ineligible to serve. When multiple candidates with the same affiliation are elected concurrently, they are seated in the order they reach the winning threshold during voting. Once the co-affiliation limit is reached, remaining candidates with that affiliation shall be ineligible.
 
 ## 5. Meetings
 
