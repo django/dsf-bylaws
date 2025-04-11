@@ -112,7 +112,7 @@ Directors and members of committees may receive such compensation, if any, for t
 
 ### 4.9 Affiliations of Board Members
 
-Any person running for the Board must disclose all affiliations (other than the Organization) to the members. Board Members must immediately disclose to the membership any changes in their affiliations that occur during their term of service. For purposes of this section, an affiliation exists when a Board Member or prospective Board Member:
+Any person running for the Board must disclose all affiliations (other than the Organization) as part of their candidate statement. Board Members must immediately disclose to the membership any changes in their affiliations that occur during their term of service. For purposes of this section, an affiliation exists when a Board Member or prospective Board Member:
 
 (a) is an employee, officer, or member of the Board of Directors of another entity;
 
