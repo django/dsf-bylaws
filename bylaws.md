@@ -100,7 +100,17 @@ Any director of the Foundation may resign effective upon giving written notice t
 
 ### 4.6 Removal
 
-Any director may be removed from office, with or without cause, by the vote of a majority of the other directors. 
+#### 4.6.1
+
+Any director may be removed from office, with or without cause, by the vote of a majority of the other directors.
+
+#### 4.6.2
+
+If a director fails to attend, either in person or by designating a proxy, more than fifty percent (50%) of the regular meetings held within any consecutive six-month period, a vote shall automatically be held at the next meeting of directors to consider removal of the director from the board. Such vote shall follow the requirements of Section 4.6.1.
+
+#### 4.6.3 Leave of Absence
+
+A director may request a leave of absence for a period not to exceed six (6) months by providing written notice to the Board of Directors. Such leave of absence shall become effective upon approval by a majority vote of the Board of Directors. During an approved leave of absence, the director shall be exempt from the attendance requirements set forth in Section 4.6.2, and such director shall not be counted for purposes of determining a quorum under Section 5.7. No more than two (2) directors may be on an approved leave of absence at any given time.
 
 ### 4.7 Vacancies
 
