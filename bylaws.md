@@ -122,11 +122,26 @@ Any person running for the Board must disclose all affiliations (other than the 
 
 For purposes of this Section, a common affiliation includes all organizations that, directly or indirectly through one or more intermediaries, controls, is controlled by, or is under common control with the other entities declared as affiliations by other members of the Board of Directors.
 
-### 4.10 Limits on Co-affiliated Board Members
+### 4.10 Limits on Co‑affiliated Board Members
 
-No more than two (2) members may share a common affiliation as defined in Section 4.9. If the number of co-affiliated directors exceeds this limit due to a change in employment or corporate acquisition, the longest-serving member(s) of the Board sharing that affiliation must resign prior to the next Board meeting to bring the number of co-affiliated directors within the permitted limit, unless otherwise agreed between the co-affiliated members.
+#### 4.10.1 **Two‑director cap.** No more than two (2) sitting directors may share a common affiliation as defined in Section 4.9.
 
-Any person whose seating or appointment would cause the Board to exceed the co-affiliation limit shall be ineligible to serve. When multiple candidates with the same affiliation are elected concurrently, they are seated in the order they reach the winning threshold during voting. Once the co-affiliation limit is reached, remaining candidates with that affiliation shall be ineligible.
+#### 4.10.2 **Change in circumstances.** If, due to a change in employment, merger, or acquisition, the number of co‑affiliated directors rises above two, the affected directors must notify the Board within fourteen (14) days.
+
+#### 4.10.3 **Voluntary resolution period.**
+
+   * Within thirty (30) days of that notice the co‑affiliated directors must agree which director(s) will resign in order to restore compliance.
+   * Directors should consider officer roles and essential responsibilities when deciding.
+   * The resignations take effect only when at least **five (5)** directors will remain seated, or simultaneous appointments are ready to keep the Board at or above the minimum size required by Section 4.2.
+
+#### 4.10.4 **Default rule if no agreement.**
+
+   * If the co‑affiliated directors do not reach agreement within the thirty‑day period, the Board will vote to decide which director(s) shall resign, taking officer roles into account.
+   * If the Board vote results in a tie, the director(s) with the **most recent** start date(s) will resign first until compliance is restored.
+
+#### 4.10.5 **Vacancy filling.** Vacancies created under this Section must be filled as soon as practical under Section 4.5. The resigning director(s) may continue in a non‑voting advisory capacity until replacements are seated to ensure continuity of officer duties.
+
+#### 4.10.6 **Election eligibility.** A candidate whose seating would cause the Board to exceed the two‑director cap is ineligible. When multiple candidates with the same affiliation are elected in the same ballot, they are seated in the order they cross the winning threshold; any remaining candidates from that affiliation become ineligible once the cap is reached.
 
 ## 5. Meetings
 
