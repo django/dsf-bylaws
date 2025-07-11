@@ -124,11 +124,9 @@ Directors and members of committees may receive such compensation, if any, for t
 
 Any person running for the Board must disclose all affiliations (other than the Organization) as part of their candidate statement. Board Members must immediately disclose to the membership any changes in their affiliations that occur during their term of service. For purposes of this section, an affiliation exists when a Board Member or prospective Board Member:
 
-(a) is an employee, officer, or member of the Board of Directors of another entity;
-
-(b) maintains a significant consulting relationship with another entity; or
-
-(c) owns at least 1% of the equity or debt, or derivatives thereof, of another entity.
+1. is an employee, officer, or member of the Board of Directors of another entity;
+2. maintains a significant consulting relationship with another entity; or
+3. owns at least 1% of the equity or debt, or derivatives thereof, of another entity.
 
 For purposes of this Section, a common affiliation includes all organizations that, directly or indirectly through one or more intermediaries, controls, is controlled by, or is under common control with the other entities declared as affiliations by other members of the Board of Directors.
 
@@ -289,11 +287,9 @@ New Bylaws may be adopted or these Bylaws may be amended or repealed upon the ma
 
 The undersigned, hereby certifies: 
 
-(a) That the undersigned is the duly elected, qualified and acting President of DJANGO SOFTWARE FOUNDATION, a Kansas Nonprofit Corporation; and 
-
-(b) That, to the best of the knowledge of the undersigned, the foregoing Bylaws, comprising seven (7) pages constitute the original Bylaws of the Foundation; and 
-
-(c) The foregoing are the duly adopted Bylaws of the Foundation now in full force and effect. 
+1. That the undersigned is the duly elected, qualified and acting President of DJANGO SOFTWARE FOUNDATION, a Kansas Nonprofit Corporation; and
+2. That, to the best of the knowledge of the undersigned, the foregoing Bylaws, comprising seven (7) pages constitute the original Bylaws of the Foundation; and
+3. The foregoing are the duly adopted Bylaws of the Foundation now in full force and effect. 
 
 IN TESTIMONY WHEREOF, this Certificate has been executed this ________ day of May, 2008. 
 
