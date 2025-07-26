@@ -10,6 +10,8 @@ The Django Software Foundation is a non-profit organization formed to promote, s
 
 The authoritative version of these bylaws can be found in PDF format on the Django website: [bylaws.pdf](https://media.djangoproject.com/foundation/bylaws.pdf).
 
+You may also view the bylaws as HTML, on the Django website: [Bylaws for Django Software Foundation](https://www.djangoproject.com/foundation/records/bylaws/)
+
 ## Contributing
 
 Changes to the bylaws must be approved by the [DSF Board](https://www.djangoproject.com/foundation/#board) according to the procedures outlined in the bylaws themselves. This repository serves as a convenient way to track changes and maintain the bylaws in a more accessible format.
