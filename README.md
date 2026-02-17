@@ -18,3 +18,4 @@ Changes to the bylaws must be approved by the [DSF Board](https://www.djangoproj
 
 For questions about the bylaws or the DSF, please [Contact the Django Software Foundation](https://www.djangoproject.com/contact/foundation/)
 
+Test change for PR.
