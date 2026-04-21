@@ -68,11 +68,11 @@ No Member may have his, her, or its membership terminated except by the affirmat
 
 Upon any resignation or termination of the membership of any Member, all rights of membership, including all related voting rights, of such Member shall be terminated. After a resignation or termination of the membership of any Member, such Member may be reconsidered for membership only in accordance with Section 3.2 of these bylaws. 
 
-### 3.7. Voting Affirmation
+### 3.7. Voting Members
 
 #### 3.7.1
 
-Members with voting rights must affirm to the Foundation in writing each year that they intend to vote in that year's elections. Such affirmation must be received by the Foundation before the opening of the relevant election. Only Members who have affirmed their intent to vote, and whose membership and voting rights are otherwise in good standing, shall be considered "**Voting Members**" for purposes of elections and quorum calculations under these bylaws.
+Members of any class with voting rights must affirm to the Foundation in writing each year that they intend to vote in that year's elections. Such affirmation must be received by the Foundation before the opening of the relevant election. Only Members who have affirmed their intent to vote, and whose membership and voting rights are otherwise in good standing, shall be considered "**Voting Members**" for purposes of elections and quorum calculations under these bylaws.
 
 #### 3.7.2
 
@@ -80,7 +80,7 @@ The Board may waive the affirmation requirement for any Member who voted in the 
 
 #### 3.7.3
 
-The Foundation shall make reasonable efforts to notify all eligible Members of the affirmation requirement and the deadline for affirmation at least thirty (30) days before the opening of the relevant election.
+The Foundation shall make reasonable efforts to notify all eligible Members of the affirmation requirement and the deadline for affirmation before the opening of the relevant election.
 
 ## 4. Board of Directors
 
