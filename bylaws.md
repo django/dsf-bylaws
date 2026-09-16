@@ -72,7 +72,7 @@ Upon any resignation or termination of the membership of any Member, all rights 
 
 #### 3.7.1
 
-Members of any class with voting rights must affirm to the Foundation in writing each year that they intend to vote in that year's elections. Members may affirm such intent by (a) having voted in either of the two (2) most recent annual elections, or (b) submitting a written affirmation to the Foundation before the opening of the relevant election. Only Members who have affirmed their intent to vote, and whose membership and voting rights are otherwise in good standing, shall be considered "**Voting Members**" for purposes of elections and quorum calculations under these bylaws.
+Members of any class with voting rights must affirm to the Foundation in writing before each election that they intend to vote in that election. Members may affirm such intent by (a) having voted in a Board election held within the two (2) years before the opening of the relevant election, or (b) submitting a written affirmation to the Foundation before the opening of the relevant election. Only Members who have affirmed their intent to vote, and whose membership and voting rights are otherwise in good standing, shall be considered "**Voting Members**" for purposes of elections and quorum calculations under these bylaws.
 
 #### 3.7.2
 
