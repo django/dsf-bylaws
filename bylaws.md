@@ -46,11 +46,11 @@ Additional Members of the Foundation shall be elected by the Board as either Ind
 
 #### 3.2.1. Individual Members
 
-Individual Members are those who further the PURPOSE of the Foundation at a degree the Foundation accepts and deems to be sufficiently material to merit election. Individual Members remain active and continuing Members of the Foundation unless they resign or their membership is otherwise terminated. Individual Members are eligible to be Voting Members, subject to the affirmation requirements of Section 3.7. 
+Individual Members are those who further the PURPOSE of the Foundation at a degree the Foundation accepts and deems to be sufficiently material to merit election. Individual Members remain active and continuing Members of the Foundation unless they resign or their membership is otherwise terminated. Individual Members are Voting Members, subject to Section 3.7. 
 
 #### 3.2.2 Corporate Members
 
-Corporate Members are those who are (a) invited by the Foundation to become a Corporate Member and (b) agree to make an annual financial contribution in such amount as may be determined by the Board from time to time. Corporate Members remain members of the Foundation for a period of one year, and may renew and retain their membership upon approval of the Board and upon making the financial contribution in such amount as the Board determines at the time of renewal. This annual financial contribution is due upon the beginning of each fiscal year. From the due date, until the fee is paid, all membership rights of the Corporate Member, including the right to vote and be counted for purposes of quorum, are suspended and terminated until the Corporate Member's yearly fee has been paid in full. Corporate Members are eligible to be Voting Members, subject to the affirmation requirements of Section 3.7. A Corporate Member shall designate in writing one representative who may vote on its behalf. 
+Corporate Members are those who are (a) invited by the Foundation to become a Corporate Member and (b) agree to make an annual financial contribution in such amount as may be determined by the Board from time to time. Corporate Members remain members of the Foundation for a period of one year, and may renew and retain their membership upon approval of the Board and upon making the financial contribution in such amount as the Board determines at the time of renewal. This annual financial contribution is due upon the beginning of each fiscal year. From the due date, until the fee is paid, all membership rights of the Corporate Member, including the right to vote and be counted for purposes of quorum, are suspended and terminated until the Corporate Member's yearly fee has been paid in full. Corporate Members are Voting Members, subject to Section 3.7. A Corporate Member shall designate in writing one representative who may vote on its behalf. 
 
 ### 3.3. Admission of Members
 
@@ -72,11 +72,19 @@ Upon any resignation or termination of the membership of any Member, all rights 
 
 #### 3.7.1
 
-Members of any class with voting rights must affirm to the Foundation in writing before each election that they intend to vote in that election. Members may affirm such intent by (a) having voted in a Board election held within the two (2) years before the opening of the relevant election, or (b) submitting a written affirmation to the Foundation before the opening of the relevant election. A Member who would otherwise be a Voting Member under part (a) may notify the Foundation in writing, before the opening of the relevant election, that they do not intend to vote. Such Member shall not be considered a Voting Member for that election. Only Members who have affirmed their intent to vote, and whose membership and voting rights are otherwise in good standing, shall be considered "**Voting Members**" for purposes of elections and quorum calculations under these bylaws.
+Every Member of a class with voting rights is a Voting Member upon admission to the Foundation, and remains a Voting Member unless their voting status lapses under Section 3.7.2 or their membership or voting rights are otherwise not in good standing. Only Members who are Voting Members shall be counted for purposes of elections and quorum calculations under these bylaws.
 
 #### 3.7.2
 
-The Foundation shall make reasonable efforts to notify all eligible Members of the affirmation requirement and the deadline for affirmation before the opening of the relevant election.
+A Member who does not vote in two (2) consecutive annual Board elections for which they were eligible to vote shall have their voting status lapse, and shall no longer be a Voting Member. Such a Member remains a Member of the Foundation and retains all other rights of membership.
+
+#### 3.7.3
+
+A Member whose voting status has lapsed becomes a Voting Member again by notifying the Foundation in writing that they intend to vote. Such notice must be received by the Foundation before the deadline it sets for the relevant election. A Member restored under this Section thereafter remains a Voting Member subject to Section 3.7.2.
+
+#### 3.7.4
+
+The Foundation shall make reasonable efforts to notify each Member whose voting status has lapsed, and to inform them how to become a Voting Member again and the deadline for doing so.
 
 ## 4. Board of Directors
 
