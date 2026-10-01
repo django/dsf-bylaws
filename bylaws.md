@@ -46,15 +46,15 @@ Additional Members of the Foundation shall be elected by the Board as either Ind
 
 #### 3.2.1. Individual Members
 
-Individual Members are those who further the PURPOSE of the Foundation at a degree the Foundation accepts and deems to be sufficiently material to merit election. Individual Members remain active and continuing Members of the Foundation unless they resign or their membership is otherwise terminated. 
+Individual Members are those who further the PURPOSE of the Foundation at a degree the Foundation accepts and deems to be sufficiently material to merit election. Individual Members remain active and continuing Members of the Foundation unless they resign or their membership is otherwise terminated. Individual Members are Voting Members, subject to Section 3.7. 
 
 #### 3.2.2 Corporate Members
 
-Corporate Members are those who are (a) invited by the Foundation to become a Corporate Member and (b) agree to make an annual financial contribution in such amount as may be determined by the Board from time to time. Corporate Members remain members of the Foundation for a period of one year, and may renew and retain their membership upon approval of the Board and upon making the financial contribution in such amount as the Board determines at the time of renewal. This annual financial contribution is due upon the beginning of each fiscal year. From the due date, until the fee is paid, all membership rights of the Corporate Member, including the right to vote and be counted for purposes of quorum, are suspended and terminated until the Corporate Member's yearly fee has been paid in full. 
+Corporate Members are those who are (a) invited by the Foundation to become a Corporate Member and (b) agree to make an annual financial contribution in such amount as may be determined by the Board from time to time. Corporate Members remain members of the Foundation for a period of one year, and may renew and retain their membership upon approval of the Board and upon making the financial contribution in such amount as the Board determines at the time of renewal. This annual financial contribution is due upon the beginning of each fiscal year. From the due date, until the fee is paid, all membership rights of the Corporate Member, including the right to vote and be counted for purposes of quorum, are suspended and terminated until the Corporate Member's yearly fee has been paid in full. Corporate Members are Voting Members, subject to Section 3.7. A Corporate Member shall designate in writing one representative who may vote on its behalf. 
 
 ### 3.3. Admission of Members
 
-Additional Members of the Foundation (whether as Development or Sponsor) shall be admitted as Members of the Foundation only by invitation approved by a majority vote of the existing Board of the Foundation or delegated Working Group. 
+Additional Members of the Foundation (whether as Individual or Corporate) shall be admitted as Members of the Foundation only by invitation approved by a majority vote of the existing Board of the Foundation or delegated Working Group. 
 
 ### 3.4. Voluntary resignation of membership
 
@@ -67,6 +67,24 @@ No Member may have his, her, or its membership terminated except by the affirmat
 ### 3.6. Effect of Resignation or Termination of Membership
 
 Upon any resignation or termination of the membership of any Member, all rights of membership, including all related voting rights, of such Member shall be terminated. After a resignation or termination of the membership of any Member, such Member may be reconsidered for membership only in accordance with Section 3.2 of these bylaws. 
+
+### 3.7. Voting Members
+
+#### 3.7.1
+
+Every Member of a class with voting rights is a Voting Member upon admission to the Foundation, and remains a Voting Member unless their voting status lapses under Section 3.7.2 or their membership or voting rights are otherwise not in good standing. Only Members who are Voting Members shall be counted for purposes of elections and quorum calculations under these bylaws.
+
+#### 3.7.2
+
+A Member who does not vote in two (2) consecutive annual Board elections for which they were eligible to vote shall have their voting status lapse, and shall no longer be a Voting Member. Such a Member remains a Member of the Foundation and retains all other rights of membership.
+
+#### 3.7.3
+
+A Member whose voting status has lapsed becomes a Voting Member again by notifying the Foundation in writing that they intend to vote. Such notice must be received by the Foundation before the deadline it sets for the relevant election. A Member restored under this Section thereafter remains a Voting Member subject to Section 3.7.2.
+
+#### 3.7.4
+
+The Foundation shall make reasonable efforts to notify each Member whose voting status has lapsed, and to inform them how to become a Voting Member again and the deadline for doing so.
 
 ## 4. Board of Directors
 
@@ -183,17 +201,21 @@ Meetings of the Board and of the Members may be held at any place within or with
 
 ### 5.7 Quorum and Transaction of Business
 
-A majority of the authorized number of directors or Members shall constitute a quorum for the transaction of business. Every act or decision done or made by a majority of the directors or Members at a meeting duly held at which a quorum is present shall be the act of the Board or of the Members, respectively, unless otherwise provided by law, or if these bylaws specifically require a greater number. A meeting at which a quorum is initially present may continue to transact business, notwithstanding withdrawal of the directors, if at least a majority of the number constituting a quorum approves such action. Without a quorum at any meeting, a majority of the directors or Members present may adjourn the meeting. 
+A majority of the authorized number of directors or Voting Members shall constitute a quorum for the transaction of business. Every act or decision done or made by a majority of the directors or Voting Members at a meeting duly held at which a quorum is present shall be the act of the Board or of the Members, respectively, unless otherwise provided by law, or if these bylaws specifically require a greater number. A meeting at which a quorum is initially present may continue to transact business, notwithstanding withdrawal of the directors, if at least a majority of the number constituting a quorum approves such action. Without a quorum at any meeting, a majority of the directors or Voting Members present may adjourn the meeting. 
 
-### 5.8 Adjournment
+### 5.8 Quorum for Member Elections
+
+For any election held by the Members, a majority of the Voting Members as defined in Section 3.7, represented by ballot or proxy, shall constitute a quorum. For electronic elections, a quorum shall be reached as soon as a majority of the Voting Members have cast their vote; if the voting period ends before a quorum is reached, the election is declared void.
+
+### 5.9 Adjournment
 
 Any meeting of the Board or Members, whether or not a quorum is present, may be adjourned to another time and place by the affirmative vote of a majority of the directors or Members present. If the meeting is adjourned for more than twenty-four (24) hours, notice of such adjournment to another time or place shall be given in accordance with Section 5.5 above. 
 
-### 5.9 Action without Meeting
+### 5.10 Action without Meeting
 
 Any action required or permitted to be taken by the Board or the Members at a meeting thereof may be taken without a meeting if all of the directors or Members, respectively, shall consent in writing to such action. Evidence of such action shall be one or more written consents describing the action taken, signed by each director or Member, and included in the minutes or filed with the corporate records reflecting the action taken. Any action taken hereunder shall be effective upon the receipt of the written consent of all of the directors or Members, respectively, for approval of the action under consideration. 
 
-### 5.10 Written Notices, etc
+### 5.11 Written Notices, etc
 
 Any written notice, consent or waiver, required or permitted hereunder shall be sufficient if sent by email to the recipient from the electronic address of the person giving such notice, consent or waiver. 
 
