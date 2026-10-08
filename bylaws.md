@@ -72,7 +72,7 @@ Upon any resignation or termination of the membership of any Member, all rights 
 
 #### 3.7.1
 
-Every Member of a class with voting rights is a Voting Member upon admission to the Foundation, and remains a Voting Member unless their voting status lapses under Section 3.7.2 or their membership or voting rights are otherwise not in good standing. Only Members who are Voting Members shall be counted for purposes of elections and quorum calculations under these bylaws.
+Every Member of a class with voting rights is a Voting Member upon admission to the Foundation, and remains a Voting Member unless their voting status lapses under Section 3.7.2 or their membership or voting rights are otherwise not in good standing. Only Members who are Voting Members shall be counted for purposes of elections and quorum calculations under Section 4.4.3.
 
 #### 3.7.2
 
@@ -111,6 +111,10 @@ Directors shall be elected to two (2) year terms. All directors shall hold offic
 #### 4.4.2 Process
 
 Directors shall be elected to staggered terms. A quorum of the directorship shall be elected for odd year terms beginning with the election for the 2025 board. One fewer than a quorum of the directorship shall be elected for even year terms beginning with the election for the 2024 board. The 1-indexed ranked results of the election for the 2023 board shall determine which term each director belongs to, with odd ranks being odd year terms and even ranks being even year terms. The same process shall be used to determine the term for board members elected upon an increase in the number of directors. 
+
+#### 4.4.3 Quorum for Elections
+
+For any election held by the Members, a majority of the Voting Members as defined in Section 3.7, represented by ballot or proxy, shall constitute a quorum. For electronic elections, a quorum shall be reached as soon as a majority of the Voting Members have cast their vote; if the voting period ends before a quorum is reached, the election is declared void.
 
 ### 4.5 Resignations
 
@@ -201,21 +205,17 @@ Meetings of the Board and of the Members may be held at any place within or with
 
 ### 5.7 Quorum and Transaction of Business
 
-A majority of the authorized number of directors or Voting Members shall constitute a quorum for the transaction of business. Every act or decision done or made by a majority of the directors or Voting Members at a meeting duly held at which a quorum is present shall be the act of the Board or of the Members, respectively, unless otherwise provided by law, or if these bylaws specifically require a greater number. A meeting at which a quorum is initially present may continue to transact business, notwithstanding withdrawal of the directors, if at least a majority of the number constituting a quorum approves such action. Without a quorum at any meeting, a majority of the directors or Voting Members present may adjourn the meeting. 
+A majority of the authorized number of directors or Members shall constitute a quorum for the transaction of business. Every act or decision done or made by a majority of the directors or Members at a meeting duly held at which a quorum is present shall be the act of the Board or of the Members, respectively, unless otherwise provided by law, or if these bylaws specifically require a greater number. A meeting at which a quorum is initially present may continue to transact business, notwithstanding withdrawal of the directors, if at least a majority of the number constituting a quorum approves such action. Without a quorum at any meeting, a majority of the directors or Members present may adjourn the meeting. 
 
-### 5.8 Quorum for Member Elections
-
-For any election held by the Members, a majority of the Voting Members as defined in Section 3.7, represented by ballot or proxy, shall constitute a quorum. For electronic elections, a quorum shall be reached as soon as a majority of the Voting Members have cast their vote; if the voting period ends before a quorum is reached, the election is declared void.
-
-### 5.9 Adjournment
+### 5.8 Adjournment
 
 Any meeting of the Board or Members, whether or not a quorum is present, may be adjourned to another time and place by the affirmative vote of a majority of the directors or Members present. If the meeting is adjourned for more than twenty-four (24) hours, notice of such adjournment to another time or place shall be given in accordance with Section 5.5 above. 
 
-### 5.10 Action without Meeting
+### 5.9 Action without Meeting
 
 Any action required or permitted to be taken by the Board or the Members at a meeting thereof may be taken without a meeting if all of the directors or Members, respectively, shall consent in writing to such action. Evidence of such action shall be one or more written consents describing the action taken, signed by each director or Member, and included in the minutes or filed with the corporate records reflecting the action taken. Any action taken hereunder shall be effective upon the receipt of the written consent of all of the directors or Members, respectively, for approval of the action under consideration. 
 
-### 5.11 Written Notices, etc
+### 5.10 Written Notices, etc
 
 Any written notice, consent or waiver, required or permitted hereunder shall be sufficient if sent by email to the recipient from the electronic address of the person giving such notice, consent or waiver. 
 
